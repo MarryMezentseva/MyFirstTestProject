@@ -1,0 +1,18 @@
+package com.masha.myFirstTestProject;
+
+import java.lang.reflect.Array;
+
+public class BasicTypes {
+    public static void main(String[] args) {
+        int rezult = 14;
+        rezult = rezult & 3;
+        rezult &= 3;
+
+        rezult ++;
+        rezult = rezult +1;
+        rezult += 1;
+        System.out.println(rezult);
+    }
+
+}
+
