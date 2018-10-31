@@ -12,6 +12,7 @@ public class BasicTypes {
         System.out.println(rezult);
         System.out.println(rezult);
         System.out.println(rezult);
+        System.out.println(rezult + "");
     }
 
 }
