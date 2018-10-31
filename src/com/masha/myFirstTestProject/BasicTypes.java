@@ -11,6 +11,7 @@ public class BasicTypes {
         rezult += 1;
         System.out.println(rezult);
         System.out.println(rezult);
+        System.out.println(rezult);
     }
 
 }
